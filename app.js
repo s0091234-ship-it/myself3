@@ -400,7 +400,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const copyPhoneTrigger = document.getElementById("copyPhoneTrigger");
   if (copyPhoneTrigger) {
     copyPhoneTrigger.addEventListener("click", () => {
-      showToast("연락처는 채용 면접 및 사전 미팅 협의 시 공유드립니다.");
+      copyToClipboard("010-6277-0108", "연락처가 복사되었습니다.");
     });
   }
 

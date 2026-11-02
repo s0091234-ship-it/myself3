@@ -18,7 +18,7 @@
   - 글로벌 원부자재 소싱, 공급망 안정화, 대규모 패키징 Cost Innovation (원가 혁신)
   - 글로벌 물류 신뢰성 평가 (ISTA, ASTM) 및 품질 표준화 (ISO, FSSC 22000, FDA 규격)
 * **이메일**: soomin.lee.packaging@example.com (업데이트 예정)
-* **연락처**: 010-XXXX-XXXX
+* **연락처**: 010-6277-0108
 * **링크드인**: linkedin.com/in/soomin-lee-packaging (업데이트 예정)
 
 ---
@@ -432,7 +432,7 @@
 
 * **성명**: 이수민 (Lee Soo-Min)
 * **포지션**: 패키징 개발 총괄 / 부장
-* **연락처**: 010-XXXX-XXXX
+* **연락처**: 010-6277-0108
 * **이메일**: packaging.master.lee@gmail.com
 * **거주지**: 서울 / 수도권 (전국 및 해외 출장 대응 가능)
 * **포트폴리오 상세 및 실물 샘플 리뷰**: 면접 및 미팅 시 상세 기술 포트폴리오(NDA 체결 후) 열람 가능
